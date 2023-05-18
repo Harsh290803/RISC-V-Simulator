@@ -1,0 +1,34 @@
+[
+    {
+        "stats": "Number of read accesses",
+        "value": "82"
+    },
+    {
+        "stats": "Number of hits",
+        "value": " 52"
+    },
+    {
+        "stats": "Number of misses",
+        "value": " 30"
+    },
+    {
+        "stats": "Number of write accesses",
+        "value": " 0"
+    },
+    {
+        "stats": "Number of accesses",
+        "value": " 23"
+    },
+    {
+        "stats": "Number of hits",
+        "value": " 6"
+    },
+    {
+        "stats": "Number of misses",
+        "value": " 17"
+    },
+    {
+        "stats": "Number of write accesses",
+        "value": " 12"
+    }
+]
