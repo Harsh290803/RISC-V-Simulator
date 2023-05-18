@@ -8,3 +8,6 @@ In this type of execution each instruction goes through the following five stage
 - **Execute (EX):** In this stage, the actual execution of the instruction takes place. The ALU (Arithmetic Logic Unit) performs the necessary arithmetic or logical operation on the operands received from the previous stage. For example, if the instruction is an arithmetic operation like addition or subtraction, the ALU performs the corresponding operation.
 - **Write Back (WB):** In this final stage, the results of the executed instruction are written back to the register file. The result may be stored in a register based on the instruction's destination operand. This stage updates the register file with the computed result.
 - **Memory Access (MEM):** In this stage, memory-related operations are performed. It includes load and store instructions. For load instructions, the memory is accessed to fetch the data from a specified memory location. For store instructions, the data from the register is stored into a specified memory location.
+
+## Phase-2 (Pipelined Implementation)
+This version of the RISC-V simulator supports piplined execution of instructions. There are various input knobs that can be set by the user to enable/disable pipelining, data forwarding, printing register file and printing pipeline registers for all or a specific instruction.
