@@ -14,3 +14,9 @@ This version of the RISC-V simulator supports piplined execution of instructions
 
 ## Phase-3 (Cache Implementation)
 This version of the simulator supports data and instruction caches. Various input parameters like cache size, cache block size, type of cache and number of ways can be set by the user. At the end of the execution, the simulator prints various insightful cache statistics in a *cacheStats.txt* file.
+
+### Contributors
+- Harsh Raj Srivastava ([@Harsh290803](https://github.com/Harsh290803))
+- Harshit Gupta ([@Harshit1092](https://github.com/Harshit1092))
+- Sahil Mangla ([@SahilMangla14](https://github.com/SahilMangla14))
+- Kartik Tiwari ([@2773kartik](https://github.com/2773kartik))
